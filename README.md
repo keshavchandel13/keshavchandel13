@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Chandel</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/keshavchandel13"><img src="[https://github-profile-trophy.vercel.app/?username=keshavchandel13](https://media.licdn.com/dms/image/v2/D5603AQEqtqiEje5g2g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718215737914?e=1755129600&v=beta&t=fXfVReAqUk6gYKszoboGEwhSXchNQd2GkAb88F2opH8)" alt="keshavchandel13" /></a> </p>
+<p align="left"> <a href="https://github.com/keshavchandel13"><img src="https://media.licdn.com/dms/image/v2/D5603AQEqtqiE…eta&t=0y509dO8bLZrvNP4aelCOlwKuEE5MoXWoISp2pnk21A" alt="keshavchandel13" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
